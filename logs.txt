@@ -258,3 +258,4 @@
 [17:50:46] Addressbook has been loaded!
 [17:51:40] Addressbook has been loaded!
 [17:52:35] Contact LEA has been added.
+[09:03:50] Addressbook has been loaded!
